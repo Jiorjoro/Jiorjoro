@@ -31,7 +31,6 @@ SENAI/SC Itajaí - Serviço Nacional de Aprendizagem Industrial -- 3º Ensino M�
 
 ### Back-end
 * PHP <br>
-  * Orientação a Objeto <br>
 * MySql <br>
 
 ## Projetos
